@@ -1,3 +1,0 @@
-User registration and profile management completed.
-JWT authentication and Spring Security integrated.
-Role-based access control and API security implemented.
